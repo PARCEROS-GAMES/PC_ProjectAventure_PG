@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OutdoorsScene.unity
+    path: Assets/Project Aventure/Scene/1_SceneLobby.unity
+    guid: d8565965a9874da49a4574a333053eee
+  - enabled: 1
+    path: Assets/Project Aventure/Scene/2_SceneAudio.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Project Aventure/Scene/3_SceneSettings.unity
+    guid: 347c6b804fe4dcb49935b42a9b936a4b
+  - enabled: 1
+    path: Assets/Project Aventure/Scene/4_SceneUI.unity
+    guid: c307e33cbd5b7f34d943bd5ef440cbc6
+  - enabled: 1
+    path: Assets/Project Aventure/Scene/5_SceneGameplay.unity
+    guid: 52875433493cc8d468877fc2014caafc
+  - enabled: 1
+    path: Assets/Project Aventure/Scene/6_SceneEnviroment.unity
+    guid: 743f83c9b7ae2414488c321dcf17167c
   m_configObjects: {}
